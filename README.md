@@ -1,18 +1,19 @@
 # 👋 About Me:
 
-👋 Hi, I'm Mohamed Sekkar, a full stack web developer specializing in React ⚛️ and La ravele 🔥! I have a strong passion for creating dynamic, high-performance web applications, focusing on delivering seamless user experiences 💗. My expertise lies in building responsive, scalable, and maintainable frontend solutions using modern JavaScript frameworks ⚡.
+Hey there! I'm Mohamed Sekkar, a passionate full stack developer with deep expertise in Laravel and React ecosystems. With a keen eye for detail and a love for clean code, I transform complex problems into elegant, user-friendly solutions. My journey in software development began in high school, followed by formal education at MIAGE and ENSA Kenitra, where I strengthened my technical foundation.
 
-I've been into coding since high school. After graduation, I studied at MIAGE and then continued my journey at ENSA Kenitra. Currently, I'm working on an eplatform store called "Tirryaq".
+Currently, I'm focused on building "Tirryaq", an innovative eplatform store that combines cutting-edge technologies to deliver exceptional user experiences. I specialize in creating responsive, scalable applications that maintain high performance across devices while staying on top of industry best practices.
 
-## 💻 Developing interactive and dynamic web apps using React and Laravel
-## 🚀 Implementing server-side rendering (SSR) and static site generation (SSG) for optimized performance
-## 🔄 Ensuring responsive design and cross-browser compatibility for mobile and desktop platforms
+## 💻 Developing interactive web applications with Laravel & React
+## 🔄 Creating RESTful APIs and implementing robust database solutions
+## 🚀 Building responsive UI components with cross-browser compatibility
 
 I'm always excited to explore new technologies and collaborate on innovative projects. Feel free to check out my repositories or reach out if you'd like to connect! 💬
 
 ## 🌐 Socials:
+<img src="https://github.com/mosugar/mosugar/raw/main/instagram_qr.png" alt="Instagram QR Code" width="200"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedsekkar) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mo_sekkar) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mo.sekkar) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mo_sekkar)
 
 # 💻 Tech Stack:
@@ -24,6 +25,7 @@ I'm always excited to explore new technologies and collaborate on innovative pro
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
@@ -38,14 +40,17 @@ I'm always excited to explore new technologies and collaborate on innovative pro
 - Arabic
 - Dutch (Basic)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mosugar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mosugar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mosugar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 Most Used Languages:
+```
+Laravel     ███████████████████░░░   75%
+React       ██████████████░░░░░░░░   60%
+PHP         ████████████░░░░░░░░░░   50%
+JavaScript  ███████████░░░░░░░░░░░   45%
+MySQL       ████████░░░░░░░░░░░░░░   35%
+```
 
-## 💡 Random Dev Quote
-> "Everything should be made as simple as possible. But to do that you have to master complexity."
-> - Butler Lampson
+## 💡 Developer Philosophy
+> "The beauty of code lies not just in what it does, but in how elegantly it does it."
 
 ## 🏆 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=mosugar&limit=5&theme=dark&combine_all_yearly_contributions=true)
