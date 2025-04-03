@@ -1,6 +1,6 @@
 # 👋 About Me:
 
-👋 Hi, I'm Mohamed Sekkar, a full stack web developer specializing in React ⚛️ and Next.js 🔥! I have a strong passion for creating dynamic, high-performance web applications, focusing on delivering seamless user experiences 💗. My expertise lies in building responsive, scalable, and maintainable frontend solutions using modern JavaScript frameworks ⚡.
+👋 Hi, I'm Mohamed Sekkar, a full stack web developer specializing in React ⚛️ and La ravele 🔥! I have a strong passion for creating dynamic, high-performance web applications, focusing on delivering seamless user experiences 💗. My expertise lies in building responsive, scalable, and maintainable frontend solutions using modern JavaScript frameworks ⚡.
 
 I've been into coding since high school. After graduation, I studied at MIAGE and then continued my journey at ENSA Kenitra. Currently, I'm working on an eplatform store called "Tirryaq".
 
