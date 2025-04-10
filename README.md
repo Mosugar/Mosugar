@@ -12,12 +12,14 @@ Currently, I’m leading the development of **Tirryaq**, an innovative e-commerc
 - Build modern, interactive web apps with **Laravel & React**
 - Design RESTful APIs and scalable database architectures
 - Craft responsive, cross-browser UI components with a clean aesthetic
+- Explore **AI** and **Machine Learning** to drive innovation
 
 ---
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedsekkar)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mo.sekkar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mo.sekkar)  
+[Wardd Studios](https://www.warddstudio.com/)
 
 ---
 
@@ -32,7 +34,15 @@ Currently, I’m leading the development of **Tirryaq**, an innovative e-commerc
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)  
+
+---
+
+## 🧠 AI & Machine Learning Skills
+- **Python** — Machine learning libraries (TensorFlow, PyTorch, scikit-learn)
+- **Data Analysis** — Pandas, NumPy, Matplotlib
+- **Deep Learning** — Neural networks, CNNs, RNNs
+- **Natural Language Processing** — Text classification, sentiment analysis
 
 ---
 
